@@ -1,5 +1,5 @@
 Tarefa 2
- 
+  
 Interpretação dos Resultados
 O coeficiente da variável BMXBMI (IMC) no resumo da regressão indicará o impacto do IMC sobre a Pressão Arterial Sistólica (PAS). Se o coeficiente for positivo, indica que, à medida que o IMC aumenta, espera-se que a PAS também aumente.
 
